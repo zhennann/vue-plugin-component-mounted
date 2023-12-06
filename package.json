@@ -1,0 +1,21 @@
+{
+  "name": "vue-plugin-component-mounted",
+  "version": "1.0.0",
+  "description": "vue-plugin-component-mounted",
+  "main": "./src/index.js",
+  "author": "zhennann",
+  "keywords": [
+    "vue",
+    "plugin",
+    "component-mounted"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/vue-plugin-component-mounted.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhennann/vue-plugin-component-mounted/issues"
+  },
+  "homepage": "https://github.com/zhennann/vue-plugin-component-mounted#readme"
+}
